@@ -1,0 +1,18 @@
+img {
+    width: 350px;
+    border-radius: 20px;
+}
+
+.scooby {
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sub {
+    display: flex;
+    flex-direction: column;
+    background-color: #aaa;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
