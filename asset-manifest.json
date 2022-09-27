@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d265ed5.css",
+    "main.js": "/static/js/main.0c3894de.js",
+    "static/media/Scooby_God_svg.svg": "/static/media/Scooby_God_svg.5b033c11758305817fdadbe1ec0067cb.svg",
+    "static/media/Scooby_13_svg.svg": "/static/media/Scooby_13_svg.2e18f44ad2bc376f4b4dc66c22dd5424.svg",
+    "static/media/Scooby_15.svg": "/static/media/Scooby_15.482ac68bfafc4c5ce75655a01057c77c.svg",
+    "static/media/Scooby_14pronto.svg": "/static/media/Scooby_14pronto.b29ee8efb4d8791fbb63c5f99e9eb670.svg",
+    "static/media/Scooby_02_svg.svg": "/static/media/Scooby_02_svg.32c0617b640bf58fb655d460cd1810b7.svg",
+    "static/media/Scooby_07_svg.svg": "/static/media/Scooby_07_svg.145f16628b230779691e3acf110395dc.svg",
+    "static/media/Scooby_05_svg.svg": "/static/media/Scooby_05_svg.37435c9dcd35c1e20837bf8f9b7c9dd3.svg",
+    "static/media/Scooby_04_svg.svg": "/static/media/Scooby_04_svg.1a924461177cb5ec688756cf26301f25.svg",
+    "static/media/Scooby_01_svg.svg": "/static/media/Scooby_01_svg.28e304ff87c5690ab0ac4f0fc44027cb.svg",
+    "static/media/Scooby_09_svg.svg": "/static/media/Scooby_09_svg.77c10c77cbdb1ca78dc035d59938b752.svg",
+    "static/media/Scooby_06_svg.svg": "/static/media/Scooby_06_svg.22df2f4bb74bbe3c0b61ca766e80e655.svg",
+    "static/media/Scooby_11_svg.svg": "/static/media/Scooby_11_svg.aa585ba7fcaeef4dc02b7e8e46713187.svg",
+    "static/media/Scooby_08_svg.svg": "/static/media/Scooby_08_svg.4a67bec957835379f7a5defb19b45b09.svg",
+    "static/media/Scooby_10_svg.svg": "/static/media/Scooby_10_svg.ab27e015a1d761d9311226d4b2f42aac.svg",
+    "static/media/Scooby_12_svg.svg": "/static/media/Scooby_12_svg.9c836f4fb9f1260022cde3947e585917.svg",
+    "index.html": "/index.html",
+    "main.1d265ed5.css.map": "/static/css/main.1d265ed5.css.map",
+    "main.0c3894de.js.map": "/static/js/main.0c3894de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d265ed5.css",
+    "static/js/main.0c3894de.js"
+  ]
+}
